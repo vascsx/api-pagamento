@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "djgDUVDpMD0yqPcJM7HlSS7P0hQs5BY8wQuSGjax8QI=",
+  "Source": "PagamentoMongoDB",
+  "BasePath": "_content/PagamentoMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

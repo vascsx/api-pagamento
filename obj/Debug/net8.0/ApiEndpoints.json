@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PagamentoController",
+    "Method": "CriarPagamento",
+    "RelativePath": "api/Pagamento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pagamento",
+        "Type": "Pagamento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
